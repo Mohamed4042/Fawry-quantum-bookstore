@@ -35,6 +35,15 @@ This system supports adding books, removing outdated ones, and purchasing books 
 
 ------
 
+
+
+## ▶️ Run
+
+Open the project in IntelliJ and run `QuantumBookstoreFullTest.java`.
+
+
+------
+
 ## 🧠 Why This Project Stands Out
 
 - Interface-based design (`Sellable`) allows for easy expansion
